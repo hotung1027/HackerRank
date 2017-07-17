@@ -1,4 +1,4 @@
-Scala\.idea
-Scala\project
-Scala\target
-Scala\build.sbt
+**/.idea
+**/project
+**/target
+*.sbt
