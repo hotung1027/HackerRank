@@ -10,6 +10,6 @@
     <option name="deprecationWarnings" value="true" />
     <option name="explainTypeErrors" value="true" />
     <option name="incrementalityType" value="SBT" />
-    <profile name="SBT 1" modules="hackerrank" />
+    <profile name="SBT 1" modules="hackerrank,scala" />
   </component>
 </project>
